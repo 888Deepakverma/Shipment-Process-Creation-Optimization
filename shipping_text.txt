@@ -29,5 +29,20 @@ Logistics software tools provided by partners
 Rate card calculators developed using [specify tools or programming languages if applicable]​
 
 Conclusion
+
+Tools Used: Excel, Custom Rate Calculators.
+
+Key Outputs:
+
+Rate Comparison Table (insert a screenshot)
+
+Sample Calculator UI (screenshot)
+
+Remote Area Zone Charts
+
+Summary of Cost Reductions (if available)
+
+Results: Achieved 10%+ savings in shipment charges; streamlined decision-making for export shipment
+
 This project demonstrates a comprehensive approach to optimizing shipment processes in an e-commerce setting. Through meticulous analysis, strategic collaborations, and the implementation of tailored shipping policies, significant improvements in cost efficiency and delivery performance were achieved.​
 
